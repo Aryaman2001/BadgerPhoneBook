@@ -2,7 +2,7 @@
 
 # About the app
 
-Developed an Java application in a team of four for CS 400 group project that stores contact information in a red black tree with name as key. App;ication comes preloaded with some course staff contact. Users can add, edit, lookup contacts and display all contacts.
+Developed an Java application in a team of four for CS 400 group project that stores contact information in a red black tree with name as key. Application comes preloaded with some course staff contact. Users can add, edit, lookup contacts and display all contacts.
 
 # What I learned
 
