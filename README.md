@@ -13,5 +13,7 @@ I learned to implement a red black tree from scratch. I worked as a data wrangle
 Users interact with the application from console.
 
 ![App preview](Picture1.png?raw=true)
+
+
 ![App preview](Picture2.png?raw=true)
 
